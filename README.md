@@ -41,4 +41,4 @@ Fully coded apps with [Vuejs](https://vuejs.org/) UI, enhanced with JWT authenti
 <br />
 
 --- 
-Index provided by [AppSeed](https://appseed.us/admin-dashboards)
+Index provided by [AppSeed](https://appseed.us/apps/vuejs)
